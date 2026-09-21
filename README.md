@@ -5,5 +5,3 @@ UNOFFICIAL
 sudo eopkg install https://github.com/kayrakrh/nvidia-prime-solus/releases/download/v1.0/nvidia-prime-1.0-6-1-x86_64.eopkg
 ```
 
-maintainer
-`kayra <bgmkayra@proton.me>`
